@@ -12,7 +12,7 @@
     }
 
     .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-        color: #F8D2FC;
+        color: #0AF789;
         font-size: 42pt;
         text-decoration: none;
     }
@@ -39,7 +39,7 @@
     }
 
     .top-menu, .top-menu:hover, .top-menu:visited {
-        color: #471846;
+        color: #0AF789;
         float: right;
         font-size: 26pt;
         margin-right: 20px;
